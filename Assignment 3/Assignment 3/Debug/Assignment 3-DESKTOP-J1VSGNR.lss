@@ -1,0 +1,6 @@
+
+AVRASM ver. 2.2.8  C:\Users\Albin\OneDrive - student.lnu.se\Next_week\Datorteknik\assignment-1-2-computer-tech\Assignment 3\Assignment 3\task4.asm Wed Oct 06 13:50:21 2021
+
+[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc'
+C:\Users\Albin\OneDrive - student.lnu.se\Next_week\Datorteknik\assignment-1-2-computer-tech\Assignment 3\Assignment 3\task4.asm(37): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc'
+C:\Users\Albin\OneDrive - student.lnu.se\Next_week\Datorteknik\assignment-1-2-computer-tech\Assignment 3\Assignment 3\task4.asm(135): error: syntax error, unexpected INTEGER
